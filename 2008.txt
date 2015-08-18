@@ -1,0 +1,34 @@
+From olaf.delgado at googlemail.com  Mon Nov 10 05:43:02 2008
+From: olaf.delgado at googlemail.com (Olaf Delgado-Friedrichs)
+Date: Mon, 10 Nov 2008 15:43:02 +1100
+Subject: [Gavrog-announce] Gavrog 0.4.0 released
+Message-ID: <4917BBD6.3080801@gmail.com>
+
+Dear friends of Gavrog,
+
+I am happy to announce a new release today, which contains Systre
+version 1.1.5 and 3dt version 0.4.0. It introduces several bug fixes,
+updates and improvements, as well as a few new features. Upgrading is
+highly recommended.
+
+To download, please go to http://www.gavrog.org and follow the link at
+the top of the page.
+
+Highlights:
+
+- Systre optionally processes files without stopping between entries.
+
+- 3dt handles two-dimensional tilings, displays ball-and-stick
+   representations of a tiling's underlying net, and had a major
+   overhaul of its user interface.
+
+For a full list of changes, see the change log.
+
+Please note that there is no longer a separate download for the Systre
+executable.
+
+
+Cheers,
+Olaf
+
+
